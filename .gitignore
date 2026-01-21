@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+**/build/
+gradle-app.setting
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local config
+local.properties
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android artifacts
+*.apk
+*.ap_
+*.aab
+
+# NDK/External builds
+.externalNativeBuild/
+.cxx/

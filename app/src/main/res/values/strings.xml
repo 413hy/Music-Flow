@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flow Music</string>
+    <string name="permission_rationale">需要读取设备上的音频文件才能显示本地音乐列表。</string>
+</resources>
